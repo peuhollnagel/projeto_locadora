@@ -22,4 +22,4 @@ Gerencie livros, clientes e empréstimos em uma biblioteca usando Java e Postgre
      java -cp ".:bin:lib/postgresql-42.7.8.jar" aplicacao.Programa
      ```
 
-Pronto! O menu do sistema é autoexplicativo.
+
