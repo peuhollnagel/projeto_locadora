@@ -22,4 +22,17 @@ Gerencie livros, clientes e empréstimos em uma biblioteca usando Java e Postgre
      java -cp ".:bin:lib/postgresql-42.7.8.jar" aplicacao.Programa
      ```
 
+# Como executar rapidamente
 
+No Windows:
+1. Dê dois cliques no arquivo run.bat para abrir o sistema.
+
+No Linux ou Mac:
+1. No terminal, execute:
+   chmod +x run.sh
+   ./run.sh
+
+É necessário ter o Java instalado e o arquivo trabalho_poo.jar na mesma pasta do script.
+O driver do PostgreSQL já está na pasta lib.
+
+O sistema será iniciado no terminal e você poderá usar normalmente.
